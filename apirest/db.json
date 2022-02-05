@@ -1,0 +1,32 @@
+{
+  "clientes": [
+    {
+      "nombre": "Narushka",
+      "email": "narushka@mail.com",
+      "empresa": "kikiri",
+      "telefono": "43567893",
+      "id": 6
+    },
+    {
+      "nombre": "Daniel",
+      "email": "daniel@mail.com",
+      "telefono": 77778777,
+      "empresa": "Kibernum",
+      "id": 7
+    },
+    {
+      "nombre": "Maria Luisa",
+      "email": "marialuisa@mail.com",
+      "telefono": 59489034,
+      "empresa": "Apple",
+      "id": 8
+    },
+    {
+      "nombre": "Miguel",
+      "email": "miguel@correo.com",
+      "telefono": "123444",
+      "empresa": "kibernum",
+      "id": 9
+    }
+  ]
+}
