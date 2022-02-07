@@ -1,13 +1,6 @@
 {
   "clientes": [
     {
-      "nombre": "Narushka",
-      "email": "narushka@mail.com",
-      "empresa": "kikiri",
-      "telefono": "43567893",
-      "id": 6
-    },
-    {
       "nombre": "Daniel",
       "email": "daniel@mail.com",
       "telefono": 77778777,
